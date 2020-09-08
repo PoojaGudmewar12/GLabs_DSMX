@@ -1,4 +1,3 @@
-
 ## SESSION PLAN
 
 ### **Session Name**: Logistic Regression
@@ -38,3 +37,4 @@
     ○  Feature Selection Importance
     ○ Different types of Feature Selection Methods
     ○ PCA
+>>>>>>> 8e61526c08412b9a82d66cb2b157f47a56f698b7
